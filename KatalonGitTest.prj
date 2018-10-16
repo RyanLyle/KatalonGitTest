@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
@@ -22,3 +23,41 @@
       </systemFolderList>
    </sourceContent>
 </Project>
+=======
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>KatalonGitTest</name>
+   <tag></tag>
+   <UUID>6d8a9f4e-56a5-4041-aaca-20ed1558d3e4</UUID>
+   <migratedVersion>5.7.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+</Project>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>KatalonGitTest</name>
+   <tag></tag>
+   <UUID>9ed0b767-3c01-495b-850b-02ae8fd2a170</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
+>>>>>>> f4047f35fc285da626ead7456e8a341d2e279de3
+>>>>>>> a6feecdf2f5d3fde2f34c6d647299cf749e8c5ff

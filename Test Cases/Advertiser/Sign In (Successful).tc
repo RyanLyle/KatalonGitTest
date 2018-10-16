@@ -1,3 +1,4 @@
+<<<<<<< HEAD:Test Cases/Advertiser/Sign In (Successful).tc
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
@@ -6,3 +7,13 @@
    <comment></comment>
    <testCaseGuid>e97e3e8a-1a04-4505-bfa1-d00aa8420a89</testCaseGuid>
 </TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>047370e7-09bd-4093-bc09-0871d6313f36</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> a6feecdf2f5d3fde2f34c6d647299cf749e8c5ff:Test Cases/Advertiser/New Test Case.tc
