@@ -21,7 +21,5 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
-
-WebUI.setText(findTestObject('Object Repository/Page_Google/input_q'), 'Hell')
+WebUI.navigateToUrl('https://member-stage6.impactradius.net/login.user')
 
