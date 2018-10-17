@@ -26,5 +26,7 @@ WebUI.navigateToUrl('https://member-stage6.impactradius.net/login.user')
 
 WebUI.acceptAlert()
 
+Mobile.checkElement(findTestObject(null), 0)
+
 WebUI.clickOffset(findTestObject(null), 0, 0)
 
