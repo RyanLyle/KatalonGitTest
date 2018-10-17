@@ -15,3 +15,4 @@ available on your local from the master branch.
 3. Add a "Commit Message" and  Description to let us know what you've done.
 4. Once you've done that, click on the "Commit to master" button located on the bottom left. 
 5. You'll have time to review any changes specific on the information pane which will be specific to the item you've selected to the "Changes" tab. 
+6. Test Change
